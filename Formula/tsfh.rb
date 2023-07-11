@@ -1,9 +1,9 @@
 class tsfh < Formula
     desc "CHANGEME_DESC"
     homepage "https://github.com/Obscurely/tsfh"
-    url "https://github.com/Obscurely/tsfh/releases/download/v0.43.0-stable/tsfh-macos.tar.gz"
-    sha256 "1294953cbeedc7e3ad7abfe9c24636947f2bd561fe8803764c05c0a0ee4e7699"
-    version "0.43.0"
+    url "https://github.com/Obscurely/tsfh/releases/download/v0.44.0-stable/tsfh-macos.tar.gz"
+    sha256 "3e50c01d0cc3b748aa3511627fc78cc29fbd85c1b331c80fa4cd247b55ff43b1"
+    version "0.44.0"
 
     def install
         bin.install "tsfh"
