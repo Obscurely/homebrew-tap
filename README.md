@@ -2,7 +2,7 @@
 
 ## Overview
 
-Homebrew tap for the deployment and distribution of cross-platform Rust tools.
+Homebrew tap for the distribution of cross-platform Rust tools.
 
 ## Maintained Packages
 
